@@ -1,6 +1,6 @@
 # Đồ án Tin học lý thuyết (CT121) trường CICT (CTU)
 # Chuyển NFAε sang DFA, nhập các thành phần trực tiếp hoặc bằng file
-# DEMO
+# DEMO: [here](https://pmtai-automata.streamlit.app/)
 ![Demo GIF](./assists/demo_vid_THLT.gif)
 
 ## Cài đặt
